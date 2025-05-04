@@ -1,0 +1,1 @@
+{"version":3,"sources":["my-project/index.js"],"names":["alert"],"mappings":";AAAAA,MAAM","file":"my-project.d84deca0.js","sourceRoot":"..","sourcesContent":["alert(\"Hello, Parcel!\");"]}
