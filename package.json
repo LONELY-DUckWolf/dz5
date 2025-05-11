@@ -19,8 +19,11 @@
   "bugs": {
     "url": "https://lonely-duckwolf.github.io/dz5/issues"
   },
-  "homepage": "https://lonely-duckwolf.github.io/dz5/#readme",
+  "homepage": "https://lonely-duckwolf.github.io/dz5/",
   "devDependencies": {
     "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "gh-pages": "^6.3.0"
   }
 }

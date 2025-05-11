@@ -1,4 +1,4 @@
-no-dist
-no-cache
-no-node_modules
+dist
+.cache
+node_modules
 
